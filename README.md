@@ -1,5 +1,4 @@
 Name: Dhruv Patel
-NetId: dnp78
 
 Written in Python 3
 
