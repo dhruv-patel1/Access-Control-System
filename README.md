@@ -1,4 +1,3 @@
-Name: Dhruv Patel
 
 Written in Python 3
 
